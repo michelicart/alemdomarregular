@@ -41150,7 +41150,7 @@ N:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=$.VM(),b=F.bm(a,
 b=M.dx(d,U.Ir("images/Mockups/capa_low.jpg",new K.cd(0,-0.2),C.f8,d),d,d,d,320,d,d,b.a)
 t=F.bm(a,!1).a
 s=$.VO()
-t=M.dx(d,new T.cr(C.uj,new T.eC(C.al,d,d,L.ct("Promo\xe7\xe3o Pr\xe9-lan\xe7amento",A.bG(d,d,C.j,d,d,d,d,d,d,d,d,30,d,d,d,d,!0,d,d,d,d,d,d),d),d),d),s,d,d,d,d,d,t.a)
+t=M.dx(d,new T.cr(C.uj,new T.eC(C.al,d,d,L.ct("Livro Al\xe9m do Mar",A.bG(d,d,C.j,d,d,d,d,d,d,d,d,30,d,d,d,d,!0,d,d,d,d,d,d),d),d),d),s,d,d,d,d,d,t.a)
 r=F.bm(a,!1).a
 q=F.bm(a,!1).a
 p=u.t
@@ -41203,7 +41203,7 @@ N:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=$.VM(),e=F.bm(a,!1).a
 e=M.dx(g,U.Ir("images/Mockups/Capa copy.jpg",new K.cd(0,-0.2),C.f8,g),g,g,g,250,g,g,e.a)
 t=F.bm(a,!1).a
 s=$.VO()
-t=M.dx(g,new T.cr(C.uh,new T.eC(C.al,g,g,L.ct("Promo\xe7\xe3o Pr\xe9-lan\xe7amento",A.bG(g,g,C.j,g,g,g,g,g,g,g,g,30,g,g,g,g,!0,g,g,g,g,g,g),g),g),g),s,g,g,g,g,g,t.a)
+t=M.dx(g,new T.cr(C.uh,new T.eC(C.al,g,g,L.ct("Livro Al\xe9m do Mar",A.bG(g,g,C.j,g,g,g,g,g,g,g,g,30,g,g,g,g,!0,g,g,g,g,g,g),g),g),g),s,g,g,g,g,g,t.a)
 r=L.ct("   Al\xe9m do Mar revela as experi\xeancias mais marcantes e bizarras de um jovem fot\xf3grafo que decidiu navegar para o outro lado do mundo em um navio de cruzeiro. Atrav\xe9s de relatos bem humorados e registros fotogr\xe1ficos, voc\xea ir\xe1 reviver seus passos em cada um dos portos que ele desembarcou durante os seus 8 meses de contrato. Fazendo suas pr\xf3prias interpreta\xe7\xf5es de alguns lugares que provavelmente voc\xea nunca ouviu falar e de outros que, com certeza, voc\xea j\xe1 pensou em visitar, pelo menos algumas vezes.",A.bG(g,g,C.j,g,g,g,g,g,g,g,g,20,g,g,g,g,!0,g,g,g,g,g,g),C.f1)
 q=L.ct("   Sem ter propriamente um come\xe7o ou um fim, essa \xe9 uma parte de uma importante passagem. Passagem de tempo, da universidade para a vida adulta, e espa\xe7o, do Brasil para o Oriente. Passagem que traz revela\xe7\xf5es, aprendizados e descobertas. Mostra que n\xe3o importa qu\xe3o pequeno e ordin\xe1rio um rapaz pode ser diante de um mundo a explorar\u2026 Se voc\xea \xe9 essa pessoa, voc\xea n\xe3o tem id\xe9ia do qu\xe3o alto voc\xea pode sonhar e do qu\xe3o longe voc\xea pode ir. Apenas v\xe1.",A.bG(g,g,C.j,g,g,g,g,g,g,g,g,20,g,g,g,g,!0,g,g,g,g,g,g),C.f1)
 p=U.Ir("images/Mockups/livro.png",C.al,C.f8,400)
