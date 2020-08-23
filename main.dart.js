@@ -41337,7 +41337,7 @@ t.push(Y.a1Q(!1,H.a([new U.aY(r,!1,!0,r,r,r,!1,s,r,C.k,r,!1,!1,r,C.q)],u.W),"The
 t.push(new U.o5("",!1,!0,r,r,r,!1,r,C.a6,C.k,"",!0,!1,r,C.b8))
 return!1}return!0}}
 L.nO.prototype={
-aE:function(){return new L.AR("R$ 82,9","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
+aE:function(){return new L.AR("R$ 82,90","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
 L.AR.prototype={
 K:function(b1){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Promo\xe7\xe3o de Lan\xe7amento",a7="15% Off!",a8="COMPRAR AGORA",a9=$.We(),b0=F.a0(b1,!1).a
 b0=M.ab(a5,U.fA("images/livro2.jpg",new K.c0(0,-0.6),C.aw,a5,a5),a5,a5,a5,320,a5,a5,b0.a)
@@ -41426,7 +41426,7 @@ $0:function(){var t=this.a,s=t.d=this.b
 if(s==="2"){t.f="R$ 165,80"
 t.r="R$ 195,8"}else if(s==="3"){t.f="R$ 248,70"
 t.r="R$ 293,70"}else if(s==="4"){t.f="R$ 331,60"
-t.r="R$ 391,60"}else{t.f="R$ 82,9"
+t.r="R$ 391,60"}else{t.f="R$ 82,90"
 t.r="R$ 97,90"}},
 $S:0}
 L.Pw.prototype={
@@ -41466,7 +41466,7 @@ F.Qg.prototype={
 $2:function(a,b){if(b.b>1000)return new L.nO(null)
 else return new K.p3(null)}}
 K.p3.prototype={
-aE:function(){return new K.C0("R$ 82,9","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
+aE:function(){return new K.C0("R$ 82,90","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
 K.C0.prototype={
 K:function(b2){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Promo\xe7\xe3o de Lan\xe7amento",a7="Ir atr\xe1s de um sonho, colocando tudo amor no que se gosta de fazer, s\xf3 podia ter como resultado belas imagens e hist\xf3ria.",a8="15% Off!",a9="COMPRAR AGORA",b0=$.We(),b1=F.a0(b2,!1).a
 b1=M.ab(a5,U.fA("images/livro2.jpg",new K.c0(0,-0.2),C.aw,a5,a5),a5,a5,a5,250,a5,a5,b1.a)
@@ -41552,7 +41552,7 @@ $0:function(){var t=this.a,s=t.d=this.b
 if(s==="2"){t.f="R$ 165,80"
 t.r="R$ 195,8"}else if(s==="3"){t.f="R$ 248,70"
 t.r="R$ 293,70"}else if(s==="4"){t.f="R$ 331,60"
-t.r="R$ 391,60"}else{t.f="R$ 82,9"
+t.r="R$ 391,60"}else{t.f="R$ 82,90"
 t.r="R$ 97,90"}},
 $S:0}
 K.QW.prototype={
