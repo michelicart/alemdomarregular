@@ -41337,9 +41337,9 @@ t.push(Y.a1Q(!1,H.a([new U.aY(r,!1,!0,r,r,r,!1,s,r,C.k,r,!1,!1,r,C.q)],u.W),"The
 t.push(new U.o5("",!1,!0,r,r,r,!1,r,C.a6,C.k,"",!0,!1,r,C.b8))
 return!1}return!0}}
 L.nO.prototype={
-aE:function(){return new L.AR("R$ 82,90","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
+aE:function(){return new L.AR("R$ 77,90","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
 L.AR.prototype={
-K:function(b1){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Promo\xe7\xe3o de Lan\xe7amento",a7="15% Off!",a8="COMPRAR AGORA",a9=$.We(),b0=F.a0(b1,!1).a
+K:function(b1){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Promo\xe7\xe3o Fim de Ano",a7="20% Off!",a8="COMPRAR AGORA",a9=$.We(),b0=F.a0(b1,!1).a
 b0=M.ab(a5,U.fA("images/livro2.jpg",new K.c0(0,-0.6),C.aw,a5,a5),a5,a5,a5,340,a5,a5,b0.a)
 t=F.a0(b1,!1).a
 s=$.tU()
@@ -41391,11 +41391,11 @@ a0=L.kJ(C.o2,l,a5)
 a1=A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5)
 a2=u.zN
 a3=new P.ac(11,11)
-f=L.eA(M.ab(a5,new T.aC(d.a/2.3,a5,T.c1(H.a([e,c,T.dl(H.a([b,K.WW(C.j,16,a0,20,P.S(new H.ak(H.a(["1","2","3","4"],u.i),new L.Pw(),a2),!0,a2.j("b3.E")),new L.Px(a4),a1,a,u.X)],q),C.aP,C.t),new T.aP(C.ik,new T.aC(170,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new L.Py(a4),new X.bL(new K.ao(a3,a3,a3,a3),C.l)),a5),a5),new T.aC(200,a5,L.aj("Comprando no lan\xe7amento voc\xea garante 15% de desconto e o frete \xe9 por nossa conta!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],q),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),h.a/2.3),f)
+f=L.eA(M.ab(a5,new T.aC(d.a/2.3,a5,T.c1(H.a([e,c,T.dl(H.a([b,K.WW(C.j,16,a0,20,P.S(new H.ak(H.a(["1","2","3","4"],u.i),new L.Pw(),a2),!0,a2.j("b3.E")),new L.Px(a4),a1,a,u.X)],q),C.aP,C.t),new T.aP(C.ik,new T.aC(170,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new L.Py(a4),new X.bL(new K.ao(a3,a3,a3,a3),C.l)),a5),a5),new T.aC(200,a5,L.aj("Apenas 10 unidades com 20% OFF!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],q),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),h.a/2.3),f)
 h=a4.Q
 a3=F.a0(b1,!1).a
 a=new P.ac(11,11)
-g=T.dl(H.a([i,M.ab(a5,T.c1(H.a([f,L.eA(M.ab(a5,new T.aC(F.a0(b1,!1).a.a/2.3,a5,T.c1(H.a([T.dl(H.a([L.aj(a4.x,A.a5(a5,a5,l,a5,C.hP,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aC(20,a5,a5,a5),L.aj(a7,A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5)],q),C.aP,C.t),L.aj(a4.y,A.a5(a5,a5,s,a5,a5,a5,a5,a5,a5,a5,a5,40,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aP(C.ik,new T.aC(170,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new L.Pz(),new X.bL(new K.ao(a,a,a,a),C.l)),a5),a5),new T.aC(300,a5,L.aj("Comprando no lan\xe7amento voc\xea garante 15% de desconto!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],q),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),a3.a/2.3),h)],q),C.t),a5,a5,a5,a5,a5,new V.V(0,0,0,0),g.a/4.6)],q),C.aP,C.t)
+g=T.dl(H.a([i,M.ab(a5,T.c1(H.a([f,L.eA(M.ab(a5,new T.aC(F.a0(b1,!1).a.a/2.3,a5,T.c1(H.a([T.dl(H.a([L.aj(a4.x,A.a5(a5,a5,l,a5,C.hP,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aC(20,a5,a5,a5),L.aj(a7,A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5)],q),C.aP,C.t),L.aj(a4.y,A.a5(a5,a5,s,a5,a5,a5,a5,a5,a5,a5,a5,40,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aP(C.ik,new T.aC(170,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new L.Pz(),new X.bL(new K.ao(a,a,a,a),C.l)),a5),a5),new T.aC(300,a5,L.aj("Garanta j\xe1 com 15% de desconto!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],q),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),a3.a/2.3),h)],q),C.t),a5,a5,a5,a5,a5,new V.V(0,0,0,0),g.a/4.6)],q),C.aP,C.t)
 h=F.a0(b1,!1).a
 j=M.ab(a5,T.c1(H.a([new T.cl(C.H,a5,a5,g,a5),M.ab(a5,L.aj("Pirataria no Canal de Suez, praias privadas na Jord\xe2nia, barras de ouro em Dubai, templo sagrado na Mal\xe1sia, noite em Cingapura, praia bizarra na China, mercado clandestino na Cor\xe9ia do Sul, um convite suspeito no Jap\xe3o, tempestade na Austr\xe1lia, mergulho perigoso na Nova Zel\xe2ndia\u2026 S\xe3o s\xf3 algumas das hist\xf3rias do livro Al\xe9m do Mar!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,20,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.ae),a5,a5,a5,a5,a5,new V.V(0,0,0,0),h.a/2.3)],q),C.t),C.j,a5,a5,a5,a5,new V.V(0,30,0,40),j.a)
 h=$.Wf()
@@ -41423,20 +41423,20 @@ $1:function(a){var t=this.a
 t.as(new L.Pr(t,a))}}
 L.Pr.prototype={
 $0:function(){var t=this.a,s=t.d=this.b
-if(s==="2"){t.f="R$ 165,80"
-t.r="R$ 195,8"}else if(s==="3"){t.f="R$ 248,70"
-t.r="R$ 293,70"}else if(s==="4"){t.f="R$ 331,60"
-t.r="R$ 391,60"}else{t.f="R$ 82,90"
+if(s==="2"){t.f="R$ 155,80"
+t.r="R$ 195,8"}else if(s==="3"){t.f="R$ 233,70"
+t.r="R$ 293,70"}else if(s==="4"){t.f="R$ 311,60"
+t.r="R$ 391,60"}else{t.f="R$ 77,90"
 t.r="R$ 97,90"}},
 $S:0}
 L.Pw.prototype={
 $1:function(a){return K.WX(L.aj(a,null,null),a,u.X)}}
 L.Py.prototype={
-$0:function(){var t="new tab",s=this.a.d
-if(s==="2")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-fe84c9bf-7c16-4112-adb2-387e7090145b",t)
-else if(s==="3")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-75a71ba5-8df8-47cf-9d21-6ff6423b113b",t)
-else if(s==="4")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-226bd24b-af55-4b2c-87cd-cc527b651eb7",t)
-else C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-1136d17c-26ec-4b74-bbfd-41a53565fc0e",t)},
+$0:function(){var t="https://www.mercadopago.com.br/checkout/v1/redirect?preference-id=96401866-79c07538-49a3-47ec-b2a4-4f482d629cf9",s="new tab",r=this.a.d
+if(r==="2")C.M.en(window,t,s)
+else if(r==="3")C.M.en(window,t,s)
+else if(r==="4")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?preference-id=96401866-8adcd730-86c8-4443-b78d-8b96d0ad27bf",s)
+else C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?preference-id=96401866-76ca8f0b-4b4f-462f-930e-e80475cf7479",s)},
 $S:0}
 L.Pz.prototype={
 $0:function(){C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-1c5f778e-35d7-4b92-8ef1-f3f6b3cf3013","new tab")},
@@ -41466,9 +41466,9 @@ F.Qg.prototype={
 $2:function(a,b){if(b.b>1000)return new L.nO(null)
 else return new K.p3(null)}}
 K.p3.prototype={
-aE:function(){return new K.C0("R$ 82,90","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
+aE:function(){return new K.C0("R$ 77,90","R$ 97,90","R$ 57,90","R$ 49,90",C.m)}}
 K.C0.prototype={
-K:function(b1){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Promo\xe7\xe3o de Lan\xe7amento",a7="15% Off!",a8="COMPRAR AGORA",a9=$.We(),b0=F.a0(b1,!1).a
+K:function(b1){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Promo\xe7\xe3o Fim de Ano",a7="20% Off!",a8="COMPRAR AGORA",a9=$.We(),b0=F.a0(b1,!1).a
 b0=M.ab(a5,U.fA("images/livro2Dig.jpg",new K.c0(0,-0.2),C.aw,a5,a5),a5,a5,a5,200,a5,a5,b0.a)
 t=F.a0(b1,!1).a
 s=$.tU()
@@ -41519,11 +41519,11 @@ a0=L.kJ(C.o2,l,a5)
 a1=A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5)
 a2=u.zN
 a3=new P.ac(11,11)
-f=L.eA(M.ab(a5,new T.aC(d.a,a5,T.c1(H.a([e,c,T.dl(H.a([b,K.WW(C.j,16,a0,20,P.S(new H.ak(H.a(["1","2","3","4"],u.i),new K.QW(),a2),!0,a2.j("b3.E")),new K.QX(a4),a1,a,u.X)],k),C.aP,C.t),new T.aP(C.ik,new T.aC(300,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new K.QY(a4),new X.bL(new K.ao(a3,a3,a3,a3),C.l)),a5),a5),new T.aC(200,a5,L.aj("Comprando no lan\xe7amento voc\xea garante 15% de desconto e o frete \xe9 por nossa conta!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],k),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),h.a),f)
+f=L.eA(M.ab(a5,new T.aC(d.a,a5,T.c1(H.a([e,c,T.dl(H.a([b,K.WW(C.j,16,a0,20,P.S(new H.ak(H.a(["1","2","3","4"],u.i),new K.QW(),a2),!0,a2.j("b3.E")),new K.QX(a4),a1,a,u.X)],k),C.aP,C.t),new T.aP(C.ik,new T.aC(300,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new K.QY(a4),new X.bL(new K.ao(a3,a3,a3,a3),C.l)),a5),a5),new T.aC(200,a5,L.aj("Apenas 10 unidades com 20% OFF!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],k),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),h.a),f)
 h=a4.Q
 a3=F.a0(b1,!1).a
 a=new P.ac(11,11)
-j=M.ab(a5,T.c1(H.a([i,M.ab(a5,T.c1(H.a([f,L.eA(M.ab(a5,new T.aC(F.a0(b1,!1).a.a,a5,T.c1(H.a([T.dl(H.a([L.aj(a4.x,A.a5(a5,a5,l,a5,C.hP,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aC(20,a5,a5,a5),L.aj(a7,A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5)],k),C.aP,C.t),L.aj(a4.y,A.a5(a5,a5,s,a5,a5,a5,a5,a5,a5,a5,a5,40,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aP(C.ik,new T.aC(300,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new K.QZ(),new X.bL(new K.ao(a,a,a,a),C.l)),a5),a5),new T.aC(300,a5,L.aj("Comprando no lan\xe7amento voc\xea garante 15% de desconto!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],k),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),a3.a),h)],k),C.t),a5,a5,a5,a5,a5,new V.V(0,0,0,0),g.a),new T.aC(a5,15,a5,a5),L.aj("Pirataria no Canal de Suez, praias privadas na Jord\xe2nia, barras de ouro em Dubai, templo sagrado na Mal\xe1sia, noite em Cingapura, praia bizarra na China, mercado clandestino na Cor\xe9ia do Sul, um convite suspeito no Jap\xe3o, tempestade na Austr\xe1lia, mergulho perigoso na Nova Zel\xe2ndia\u2026 S\xe3o s\xf3 algumas das hist\xf3rias do livro Al\xe9m do Mar!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,20,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.ae)],k),C.t),C.j,a5,a5,a5,a5,new V.V(40,15,40,15),j.a)
+j=M.ab(a5,T.c1(H.a([i,M.ab(a5,T.c1(H.a([f,L.eA(M.ab(a5,new T.aC(F.a0(b1,!1).a.a,a5,T.c1(H.a([T.dl(H.a([L.aj(a4.x,A.a5(a5,a5,l,a5,C.hP,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aC(20,a5,a5,a5),L.aj(a7,A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5)],k),C.aP,C.t),L.aj(a4.y,A.a5(a5,a5,s,a5,a5,a5,a5,a5,a5,a5,a5,40,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),new T.aP(C.ik,new T.aC(300,40,N.HD(L.aj(a8,A.a5(a5,a5,C.j,a5,a5,a5,a5,a5,a5,a5,a5,18,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),s,new K.QZ(),new X.bL(new K.ao(a,a,a,a),C.l)),a5),a5),new T.aC(300,a5,L.aj("Garanta j\xe1 com 15% de desconto!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.bJ),a5)],k),C.t),a5),C.j,a5,a5,a5,a5,new V.V(0,15,0,0),a3.a),h)],k),C.t),a5,a5,a5,a5,a5,new V.V(0,0,0,0),g.a),new T.aC(a5,15,a5,a5),L.aj("Pirataria no Canal de Suez, praias privadas na Jord\xe2nia, barras de ouro em Dubai, templo sagrado na Mal\xe1sia, noite em Cingapura, praia bizarra na China, mercado clandestino na Cor\xe9ia do Sul, um convite suspeito no Jap\xe3o, tempestade na Austr\xe1lia, mergulho perigoso na Nova Zel\xe2ndia\u2026 S\xe3o s\xf3 algumas das hist\xf3rias do livro Al\xe9m do Mar!",A.a5(a5,a5,l,a5,a5,a5,a5,a5,a5,a5,a5,20,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),C.ae)],k),C.t),C.j,a5,a5,a5,a5,new V.V(40,15,40,15),j.a)
 l=$.Wf()
 return M.Ye(a9,B.UF(H.a([b0,t,new T.aP(C.us,r,a5),new T.aP(C.bN,q,a5),new T.aP(C.cn,p,a5),o,n,new T.aC(a5,15,a5,a5),new T.aP(C.bN,new A.fR("Hist\xf3rias leves e fotografias espetaculares, que mostram o qu\xe3o incr\xedveis e ricas s\xe3o as culturas do nosso planeta. \xd3timo!","Igor Magalh\xe3es",a5),a5),new T.aC(a5,30,a5,a5),new T.aP(C.bN,new A.fR("Uma leitura agrad\xe1vel e belas imagens. Uma \xf3tima maneira de conhecer um pouco dos lugares onde eu n\xe3o poderei ir pessoalmente. Me deu vontade de viajar. E fotografar. Preciso dizer mais alguma coisa?","Pedro Humberto",a5),a5),new T.aC(a5,30,a5,a5),new T.aP(C.bN,new A.fR("Eu gostei muito do livro, pois me fez lembrar da minha juventude, quando estudei no Jap\xe3o. Visitar lugares inesquec\xedveis...","Paulo Rosa",a5),a5),new T.aC(a5,30,a5,a5),m,j,M.ab(a5,new T.cl(C.H,a5,a5,L.aj("Copyright \xa9 2020 MotionMe. All rights reserved.",A.a5(a5,a5,a9,a5,a5,a5,a5,a5,a5,a5,a5,13,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5),a5),a5),l,a5,a5,50,a5,a5,a5)],k),a5,a5,!1))}}
 K.QU.prototype={
@@ -41549,20 +41549,20 @@ $1:function(a){var t=this.a
 t.as(new K.QR(t,a))}}
 K.QR.prototype={
 $0:function(){var t=this.a,s=t.d=this.b
-if(s==="2"){t.f="R$ 165,80"
-t.r="R$ 195,8"}else if(s==="3"){t.f="R$ 248,70"
-t.r="R$ 293,70"}else if(s==="4"){t.f="R$ 331,60"
-t.r="R$ 391,60"}else{t.f="R$ 82,90"
+if(s==="2"){t.f="R$ 155,80"
+t.r="R$ 195,8"}else if(s==="3"){t.f="R$ 233,70"
+t.r="R$ 293,70"}else if(s==="4"){t.f="R$ 311,60"
+t.r="R$ 391,60"}else{t.f="R$ 77,90"
 t.r="R$ 97,90"}},
 $S:0}
 K.QW.prototype={
 $1:function(a){return K.WX(L.aj(a,null,null),a,u.X)}}
 K.QY.prototype={
-$0:function(){var t="new tab",s=this.a.d
-if(s==="2")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-fe84c9bf-7c16-4112-adb2-387e7090145b",t)
-else if(s==="3")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-75a71ba5-8df8-47cf-9d21-6ff6423b113b",t)
-else if(s==="4")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-226bd24b-af55-4b2c-87cd-cc527b651eb7",t)
-else C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-1136d17c-26ec-4b74-bbfd-41a53565fc0e",t)},
+$0:function(){var t="https://www.mercadopago.com.br/checkout/v1/redirect?preference-id=96401866-79c07538-49a3-47ec-b2a4-4f482d629cf9",s="new tab",r=this.a.d
+if(r==="2")C.M.en(window,t,s)
+else if(r==="3")C.M.en(window,t,s)
+else if(r==="4")C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?preference-id=96401866-8adcd730-86c8-4443-b78d-8b96d0ad27bf",s)
+else C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?preference-id=96401866-76ca8f0b-4b4f-462f-930e-e80475cf7479",s)},
 $S:0}
 K.QZ.prototype={
 $0:function(){C.M.en(window,"https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=96401866-1c5f778e-35d7-4b92-8ef1-f3f6b3cf3013","new tab")},
