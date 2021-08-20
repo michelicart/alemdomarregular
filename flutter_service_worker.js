@@ -8,7 +8,6 @@ const RESOURCES = {
 "assets/assets/fonts/Bariol_Regular.otf": "ffe84263f982cbe9bae053b0cbb6dcda",
 "assets/FontManifest.json": "beff6d8d28323d28ac9adcb4f417670a",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/images/digital.png": "4b14b61e457037d27ec29d255634329b",
 "assets/images/fav.png": "e3a1f27b45c0a76634e18d40ca5dd36c",
 "assets/images/insta.png": "729f7798561be2cb67f39e916a22eb6a",
@@ -40,9 +39,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "8fdbcef62e649a06640fc12783be00c8",
-"/": "8fdbcef62e649a06640fc12783be00c8",
-"main.dart.js": "035c5fca34c15ec08ed69f8aa045e4b1",
+"index.html": "45730b19806abcf20c2c37f7fc5747fd",
+"/": "45730b19806abcf20c2c37f7fc5747fd",
+"main.dart.js": "5b35fb9e560ea15c88676198b16d9413",
 "manifest.json": "1094fc05d9c9a690a65270f92a698342",
 "version.json": "743dae2372336ef34dd6b52b8bec85a9"
 };
